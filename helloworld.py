@@ -1,4 +1,4 @@
 
 nombre=input("escribe tu nombre: ")
-print("Hello (nombre)!")
+print("Hello [nombre]!")
 
