@@ -1,2 +1,3 @@
-# semana_tec_sep_25
+# Bienvenidxs
+
 Repositorio para la clase el arte de la programacion (ST) 
